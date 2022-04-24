@@ -1,1 +1,5 @@
-mylogs.log
+mylogs.log   // Ignoring to every mylogs.log file from anywhere
+/mylogs.log  // ignoring only root mylogs.log
+*.log         // ignoring all extention log file
+
+images/       // ignore to folder
