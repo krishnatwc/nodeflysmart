@@ -1,0 +1,4 @@
+mylogs.log 
+images/
+*.log
+/mylogs.log
